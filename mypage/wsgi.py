@@ -1,5 +1,5 @@
 """
-WSGI config for mypage project.
+WSGI config for mypage project.1234
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
