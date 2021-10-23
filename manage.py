@@ -2,6 +2,7 @@
 import os
 import sys
 #alok_here
+#rajesh here
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mypage.settings")
     try:
