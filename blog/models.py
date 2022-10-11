@@ -1,6 +1,6 @@
 from django.db import models
 from django.utils import timezone
-""" This page define different models required in the page
+""" This page define different models required 
 
 class Post(models.Model):
     author=models.ForeignKey('auth.User',on_delete=models.CASCADE)
